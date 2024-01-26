@@ -1,2 +1,3 @@
 Learning Git in class
+Branches fork wisdom unfolds
 It can get messy
