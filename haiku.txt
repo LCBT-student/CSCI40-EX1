@@ -1,1 +1,2 @@
 Learning Git in class
+It can get messy
